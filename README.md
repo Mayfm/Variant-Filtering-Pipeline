@@ -37,5 +37,6 @@ Example patient data are not included in this repository. Users should provide t
 
 ## Authors
 Mayela Fosado-Mendoza
+
 Adrián Guevara-Maqueda
 
