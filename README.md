@@ -17,6 +17,8 @@ Optional analyses include exploration of alternative inheritance models and rela
 
 * R (>= 4.5.2)
 * tidyverse
+* tibble
+* readxl
 
 ## Input
 
